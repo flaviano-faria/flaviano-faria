@@ -7,7 +7,7 @@
   - AWS
   - Splunk
   - Golang;
-  - 
+    
 - 🌱 I’m currently learning:
   - Golang
   - Python
