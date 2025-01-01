@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working
+- 🔭 I’m currently working:
   - Java design patterns
+  - Mockito
   - Spring Boot
   - AWS
   - Splunk
