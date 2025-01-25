@@ -4,10 +4,11 @@
 - 🔭 I’m currently working:
   - Java design patterns
   - Mockito
+  - JUnit
   - Spring Boot
   - AWS
   - Splunk
-  - Golang;
+  
     
 - 🌱 I’m currently learning:
   - Golang
