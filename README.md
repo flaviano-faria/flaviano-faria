@@ -21,5 +21,6 @@
   - Java Reactive Programming
   - Quarkus
   - AWS
+  - Azure
   - MongoDB
 
