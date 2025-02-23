@@ -4,10 +4,11 @@
 - 🔭 I’m currently working:
   - Java design patterns
   - Mockito
+  - Cucumber
   - JUnit
   - Spring Boot
-  - AWS
-  - Splunk
+  - Azure Devops
+  - New Relic
   
     
 - 🌱 I’m currently learning:
