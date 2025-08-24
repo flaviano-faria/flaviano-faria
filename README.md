@@ -12,7 +12,7 @@
   
     
 - 🌱 I’m currently learning:
-  - Golang
+  - Argo CD
   - Python
   - Java new features
   - Apache Kafka
