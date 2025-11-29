@@ -8,6 +8,7 @@
   - JUnit
   - Spring Boot
   - Azure Devops
+  - RabbitMQ
   - New Relic
   
     
