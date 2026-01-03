@@ -10,6 +10,7 @@
   - Azure Devops
   - RabbitMQ
   - New Relic
+  - Terraform
   
     
 - 🌱 I’m currently learning:
