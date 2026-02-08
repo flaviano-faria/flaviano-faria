@@ -18,6 +18,7 @@
   - Python
   - Java new features
   - Apache Kafka
+  - RabbitMQ
   - Test containers
   - Splunk
   - Grafana
