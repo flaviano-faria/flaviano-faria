@@ -11,6 +11,8 @@
   - RabbitMQ
   - New Relic
   - Terraform
+  - Cucumber
+  - AI Engineering
   
     
 - 🌱 I’m currently learning:
