@@ -4,6 +4,7 @@
 - 🔭 I’m currently working:
   - Java design patterns
   - Mockito
+  - WireMock
   - Cucumber
   - JUnit
   - Spring Boot
