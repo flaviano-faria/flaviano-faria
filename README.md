@@ -14,6 +14,7 @@
   - Terraform
   - Cucumber
   - AI Engineering
+  - Harness engineering
   
     
 - 🌱 I’m currently learning:
