@@ -19,7 +19,6 @@
     
 - 🌱 I’m currently learning:
   - Argo CD
-  - Python
   - Java new features
   - Apache Kafka
   - RabbitMQ
@@ -31,4 +30,5 @@
   - AWS
   - Azure
   - MongoDB
+  - Spring AI
 
